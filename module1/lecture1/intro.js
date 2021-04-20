@@ -42,8 +42,8 @@ let obj={
             'Best Friend':['Stayam', 'Rishabh','shree']
 }
 
-get a value of key in object
-dot notation =>literal check
+//get a value of key in object
+//dot notation =>literal check
 console.log(obj.name);
 console.log(obj.movies);
 console.log(obj['movies']);
