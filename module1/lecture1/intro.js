@@ -59,5 +59,6 @@ console.log(obj.movies[4].weakness[0][7]);
 //console.log(obj.movies[4].weakness.substring(1,5));
 
 obj.skills=["Intelligent",'Smart','Active','Hero'];
+obj.place="New York";
 
 console.log(obj);
