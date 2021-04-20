@@ -59,10 +59,7 @@ console.log(obj.movies[4].weakness[0][7]);
 //console.log(obj.movies[4].weakness.substring(1,5));
 
 obj.skills=["Intelligent",'Smart','Active','Hero'];
-<<<<<<< HEAD
 obj.Place='New York';
-=======
-obj.place="New York";
->>>>>>> aab9a91e53c34b53293f5104385b4b7364056c19
+
 
 console.log(obj);
