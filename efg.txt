@@ -1,1 +1,3 @@
 My First Git practise
+cool
+Thanks
