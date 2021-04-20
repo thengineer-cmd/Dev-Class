@@ -35,7 +35,7 @@ let obj={
                     bestie:'bucky',
                     nickname:'solu',
                     partner:'none',
-                    weakness:['Bahot Saree']
+                    weakness:['BahotSaree']
 
 
             }],
